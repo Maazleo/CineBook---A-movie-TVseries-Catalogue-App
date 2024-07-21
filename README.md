@@ -32,22 +32,25 @@
 ---
 
 ## 📱 Screenshots
-
-![Home Screen](lib/assets/images/homescreen.jpg)
-![Category View](lib/assets/images/homescreen.jpg)
-![Movie Details](lib/assets/images/homescreen.jpg)
-![Movie Details](lib/assets/images/homescreen.jpg)
-![Movie Details](lib/assets/images/homescreen.jpg)
-![Movie Details](lib/assets/images/homescreen.jpg)
-![Movie Details](lib/assets/images/homescreen.jpg)
-![Movie Details](lib/assets/images/homescreen.jpg)
-![Movie Details](lib/assets/images/homescreen.jpg)
-
+<p align="center">
+  <img src="gitimg/homescreen.jpg" alt="Home Screen" width="200"/>
+  <img src="gitimg/modal.jpg" alt="Description view" width="200"/>
+  <img src="gitimg/drawer.jpg" alt="Drawer View" width="200"/>
+  <img src="gitimg/mylist.jpg" alt="My list screens" width="200"/>
+   <img src="gitimg/homescreen.jpg" alt="Home Screen" width="200"/>
+  <img src="gitimg/review.jpg" alt="reviewn screen View" width="200"/>
+  <img src="gitimg/watch.jpg" alt="Watch later screen " width="200"/>
+   <img src="gitimg/homescreen.jpg" alt="Home Screen" width="200"/>
+  <img src="gitimg/searchscreen.jpg" alt="Search screen View" width="200"/>
+  <img src="gitimg/profile.jpg" alt="Profile view" width="200"/>
+  <img src="gitimg/category.jpg" alt="add category view" width="200"/>
+  
+</p>
 ---
 
 ## 🎥 Demo Video
 
-![Demo Video](videos/demo_video.mp4)
+![Demo Video](gitimg/demo.mp4)
 
 ---
 
@@ -94,9 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🌐 Connect with Us
 
-- **Website:** [cineBOOK.com](https://cineBOOK.com)
-- **Twitter:** [@cineBOOKapp](https://twitter.com/cineBOOKapp)
-- **Instagram:** [@cineBOOKapp](https://instagram.com/cineBOOKapp)
+- **Email:** [cineBOOK.com](maazmasroorhuss@gmail.com)
 
 ---
 
