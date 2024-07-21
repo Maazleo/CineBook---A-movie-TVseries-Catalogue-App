@@ -33,7 +33,7 @@
 
 ## 📱 Screenshots
 
-![Home Screen](lib/assets/images/homescreen.jpg)
+![Home Screen](gitimg/homescreen.jpg)
 ![Category View](lib/assets/images/homescreen.jpg)
 ![Movie Details](lib/assets/images/homescreen.jpg)
 ![Movie Details](lib/assets/images/homescreen.jpg)
