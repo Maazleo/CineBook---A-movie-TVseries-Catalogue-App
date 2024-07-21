@@ -97,9 +97,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🌐 Connect with Us
 
-- **Website:** [cineBOOK.com](https://cineBOOK.com)
-- **Twitter:** [@cineBOOKapp](https://twitter.com/cineBOOKapp)
-- **Instagram:** [@cineBOOKapp](https://instagram.com/cineBOOKapp)
+- **email us:** [cineBOOK.com](maazmasroorhuss@gmail.com)
+
 
 ---
 
