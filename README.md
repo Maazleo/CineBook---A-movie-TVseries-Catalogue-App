@@ -33,9 +33,15 @@
 
 ## 📱 Screenshots
 
-![Home Screen](images/home_screen.png)
-![Category View](images/category_view.png)
-![Movie Details](images/movie_details.png)
+![Home Screen](lib/assets/images/homescreen.jpg)
+![Category View](lib/assets/images/homescreen.jpg)
+![Movie Details](lib/assets/images/homescreen.jpg)
+![Movie Details](lib/assets/images/homescreen.jpg)
+![Movie Details](lib/assets/images/homescreen.jpg)
+![Movie Details](lib/assets/images/homescreen.jpg)
+![Movie Details](lib/assets/images/homescreen.jpg)
+![Movie Details](lib/assets/images/homescreen.jpg)
+![Movie Details](lib/assets/images/homescreen.jpg)
 
 ---
 
