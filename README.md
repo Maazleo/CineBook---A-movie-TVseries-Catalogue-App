@@ -3,7 +3,7 @@
 ### *Your Ultimate Movie & TV Show Organizer*
 
 ---
-Flutter CI Status Discord badge Twitter handle codecov CII Best Practices OpenSSF Scorecard SLSA 1
+
 ## 📖 Description
 
 **CineBOOK** is a sleek and intuitive mobile application designed with Flutter, catering to movie buffs and TV show enthusiasts. With cineBOOK, discovering, organizing, and managing your favorite films and shows has never been easier.
