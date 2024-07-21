@@ -33,7 +33,7 @@
 
 ## 📱 Screenshots
 <p align="center">
-  <img src="gitimg/home_screen.jpg" alt="Home Screen" width="300"/>
+  <img src="gitimg/homescreen.jpg" alt="Home Screen" width="300"/>
   <img src="images/category_view.png" alt="Category View" width="300"/>
   <img src="images/movie_details.png" alt="Movie Details" width="300"/>
 </p>
