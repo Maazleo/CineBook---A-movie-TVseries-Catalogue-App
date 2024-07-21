@@ -34,16 +34,16 @@
 ## 📱 Screenshots
 <p align="center">
   <img src="gitimg/homescreen.jpg" alt="Home Screen" width="200"/>
-  <img src="gitimg/modal.jpg" alt="Description view" width="300"/>
-  <img src="gitimg/drawer.jpg" alt="Drawer View" width="300"/>
-  <img src="gitimg/mylist.jpg" alt="My list screens" width="300"/>
-   <img src="gitimg/homescreen.jpg" alt="Home Screen" width="300"/>
-  <img src="gitimg/review.jpg" alt="reviewn screen View" width="300"/>
-  <img src="gitimg/watch.jpg" alt="Watch later screen " width="300"/>
-   <img src="gitimg/homescreen.jpg" alt="Home Screen" width="300"/>
-  <img src="gitimg/searchscreen.jpg" alt="Search screen View" width="300"/>
-  <img src="gitimg/profile.jpg" alt="Profile view" width="300"/>
-  <img src="gitimg/category.jpg" alt="add category view" width="300"/>
+  <img src="gitimg/modal.jpg" alt="Description view" width="200"/>
+  <img src="gitimg/drawer.jpg" alt="Drawer View" width="200"/>
+  <img src="gitimg/mylist.jpg" alt="My list screens" width="200"/>
+   <img src="gitimg/homescreen.jpg" alt="Home Screen" width="200"/>
+  <img src="gitimg/review.jpg" alt="reviewn screen View" width="200"/>
+  <img src="gitimg/watch.jpg" alt="Watch later screen " width="200"/>
+   <img src="gitimg/homescreen.jpg" alt="Home Screen" width="200"/>
+  <img src="gitimg/searchscreen.jpg" alt="Search screen View" width="200"/>
+  <img src="gitimg/profile.jpg" alt="Profile view" width="200"/>
+  <img src="gitimg/category.jpg" alt="add category view" width="200"/>
   
 </p>
 ---
