@@ -50,7 +50,7 @@
 
 ## 🎥 Demo Video
 
-![Demo Video](gitimg/demo.mp4)
+![Demo Video](videos/demo_video.mp4)
 
 ---
 
@@ -97,7 +97,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🌐 Connect with Us
 
-- **Email:** [cineBOOK.com](maazmasroorhuss@gmail.com)
+- **Website:** [cineBOOK.com](https://cineBOOK.com)
+- **Twitter:** [@cineBOOKapp](https://twitter.com/cineBOOKapp)
+- **Instagram:** [@cineBOOKapp](https://instagram.com/cineBOOKapp)
 
 ---
 
