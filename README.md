@@ -50,7 +50,7 @@
 
 ## 🎥 Demo Video
 
-![Demo Video](gitimg/demovideo.mp4)
+![Demo Video](gitimg/demo.mp4)
 
 ---
 
