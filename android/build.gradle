@@ -1,3 +1,15 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.2.0'
+        // If you're using Kotlin, also update the Kotlin Gradle plugin:
+         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.10"
+    }
+}
+
 allprojects {
     repositories {
         google()
